@@ -9,6 +9,8 @@
 <img src="./frontend/public/login-l.png" />
 <img src="./frontend/public/profile-m.png" />
 <img src="./frontend/public/profile-l.png" />
+
+Example of User Data in MongoDB:
 <img src="./frontend/public/MongoDB.png" />
 
 ## Problem Statement:
