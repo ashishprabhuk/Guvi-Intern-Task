@@ -2,6 +2,8 @@
 
 - Github Repo : [https://github.com/ashishprabhuk/Guvi-Intern-Task](https://github.com/ashishprabhuk/Guvi-Intern-Task)
 
+![](https://github.com/ashishprabhuk/Guvi-Intern-Task/blob/main/frontend/public/Guvi-Intern.gif)
+
 
 <img src="./frontend/public/home-m.png" />
 <img src="./frontend/public/home-l.png" />
