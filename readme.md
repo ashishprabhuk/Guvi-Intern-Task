@@ -2,7 +2,9 @@
 
 - Github Repo : [https://github.com/ashishprabhuk/Guvi-Intern-Task](https://github.com/ashishprabhuk/Guvi-Intern-Task)
 
-![](https://github.com/ashishprabhuk/Guvi-Intern-Task/blob/main/frontend/public/Guvi-Intern.gif)
+- Frontend Link : [https://guvi-intern-backend.netlify.app/](https://guvi-intern-backend.netlify.app/)
+
+- Backend Link : [https://guvi-intern-backend.netlify.app/](https://guvi-intern-backend.netlify.app/)
 
 
 <img src="./frontend/public/home-m.png" />
