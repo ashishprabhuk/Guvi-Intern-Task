@@ -1,5 +1,7 @@
 # Guvi Tech Support Mern Stack role
 
+- Github Repo : [https://github.com/ashishprabhuk/Guvi-Intern-Task](https://github.com/ashishprabhuk/Guvi-Intern-Task)
+
 
 <img src="./frontend/public/home-m.png" />
 <img src="./frontend/public/home-l.png" />
@@ -10,7 +12,7 @@
 <img src="./frontend/public/profile-m.png" />
 <img src="./frontend/public/profile-l.png" />
 
-Example of User Data in MongoDB:
+### Example of User Data in MongoDB:
 <img src="./frontend/public/MongoDB.png" />
 
 ## Problem Statement:
@@ -24,21 +26,24 @@ updated by the user.
 - Once the user logs out it will be redirect to the login page.
 
 
-### Install Dependencies (frontend & backend)
-
+### Install Dependencies 
+- Backend:
 ```
 npm install
+```
+- Frontend:
+```
 cd frontend
 npm install
 ```
 
-### Run
+### Run in your System
 
 ```
-# Run frontend (:3000) & backend (:5000)
+# Run frontend  & backend in the parent directory using Nodemon
 npm run dev
 
-# Run backend only
+# Run backend directory only
 npm run server
 ```
 
