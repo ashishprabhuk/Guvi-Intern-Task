@@ -1,0 +1,12 @@
+.nav{
+    background-color: #0DBA4B;
+    color: #0DBA4B;
+}
+
+.dropdown-item {
+    color: #fff;
+}
+
+.dropdown-menu.show {
+    color: #fff;
+}

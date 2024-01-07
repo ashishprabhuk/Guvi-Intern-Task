@@ -1,0 +1,106 @@
+.divider {
+  height: 1px;
+  background-color: #333333;
+  margin: 10px auto;
+  width: 70%;
+}
+
+.cards {
+  max-width: 350px;
+  background: #0dba4b;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  border-radius: 20px;
+}
+
+.py-5 {
+  padding-top: 1rem !important;
+  padding-bottom: 3rem !important;
+}
+
+.card-title {
+  font-weight: 600;
+  padding-left: 10px;
+  padding-right: 10px;
+  text-align: center;
+  color: #fff;
+  font-size: 26px;
+  line-height: 26px;
+}
+
+.card-desc {
+  font-weight: 400;
+  color: rgb(255, 255, 255);
+  font-size: 15px;
+  text-align: center;
+  margin: 5px 0;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.card-button {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-radius: 10px;
+  padding: 6px;
+  text-decoration: none;
+}
+
+.card-button-text {
+  display: flex;
+  flex-direction: column;
+  margin-left: 8px;
+}
+
+.card-button-text span:first-child {
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.form-container .form-submit-btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: inherit;
+  color: #fff;
+  background-color: #212121;
+  border: none;
+  width: 100%;
+  padding: 12px 16px;
+  font-size: inherit;
+  gap: 8px;
+  margin-top: 20px;
+  cursor: pointer;
+  border-radius: 6px;
+  box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.084), 0px 2px 3px rgba(0, 0, 0, 0.168);
+}
+
+.form-container .form-submit-btn:hover {
+  background-color: #ffffff;
+  color: #0dba4b;
+}
+
+.form-container .sign-submit-btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: inherit;
+  color: #000000;
+  background-color: #ffffff;
+  border: none;
+  width: 100%;
+  padding: 12px 16px;
+  font-size: inherit;
+  gap: 8px;
+  margin-top: 20px;
+  cursor: pointer;
+  border-radius: 6px;
+  box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.084), 0px 2px 3px rgba(0, 0, 0, 0.168);
+}
+
+.form-container .sign-submit-btn:hover {
+  background-color: #ffffff;
+  color: #0dba4b;
+}

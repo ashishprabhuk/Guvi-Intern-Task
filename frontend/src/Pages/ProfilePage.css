@@ -1,0 +1,37 @@
+.p-5 {
+  padding: initial !important;
+}
+
+.form-control {
+  background-color: #0dba4c25;
+  background-color: #e3e3e3;
+  /* border: 1.5px solid #0dba4b; */
+}
+
+.form-control:focus {
+  border-color: 2px solid #0dba4b;
+  background-color: #0dba4b25; /* Set the border color when the form is clicked */
+}
+
+.form-container .form-submit-btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: inherit;
+  color: #fff;
+  background-color: #212121;
+  border: none;
+  width: 100%;
+  padding: 12px 16px;
+  font-size: inherit;
+  gap: 8px;
+  margin-top: 20px;
+  cursor: pointer;
+  border-radius: 6px;
+  box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.084), 0px 2px 3px rgba(0, 0, 0, 0.168);
+}
+
+.form-container .form-submit-btn:hover {
+  background-color: #313131;
+  color: #0dba4b;
+}
