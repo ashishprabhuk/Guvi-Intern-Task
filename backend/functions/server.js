@@ -2,11 +2,13 @@ import path from "path";
 import express from "express";
 import dotenv from "dotenv";
 dotenv.config();
-import connectDB from "./config/db.js";
+import connectDB from "../config/db.js";
 import cookieParser from "cookie-parser";
-import { notFound, errorHandler } from "./middleware/errorMiddleware.js";
-import userRoutes from "./routes/userRoutes.js";
+import { notFound, errorHandler } from "../middleware/errorMiddleware.js";
+import userRoutes from "../routes/userRoutes.js";
+import Serverless from "serverless-http";
 
+const router = express.Router();
 const port = process.env.PORT || 5000;
 
 connectDB();
@@ -37,3 +39,7 @@ app.use(notFound);
 app.use(errorHandler);
 
 app.listen(port, () => console.log(`Server is running on port ${port}`));
+
+
+// app.use('/netlify/functions/api', router);
+// module.exports.handler = Serverless(app);
