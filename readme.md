@@ -1,12 +1,17 @@
 # Guvi Tech Support Mern Stack role
 
+# Live Demo:
+![](https://github.com/ashishprabhuk/Guvi-Intern-Task/blob/main/frontend/public/Guvi-Intern.gif)
+
+
 - Github Repo : [https://github.com/ashishprabhuk/Guvi-Intern-Task](https://github.com/ashishprabhuk/Guvi-Intern-Task)
 
-- Frontend Link : [https://guvi-intern-backend.netlify.app/](https://guvi-intern-backend.netlify.app/)
+- Frontend Link : [https://guvi-intern-frontend.netlify.app/](https://guvi-intern-frontend.netlify.app/)
 
 - Backend Link : [https://guvi-intern-backend.netlify.app/](https://guvi-intern-backend.netlify.app/)
 
 
+## Responsive Designs:
 <img src="./frontend/public/home-m.png" />
 <img src="./frontend/public/home-l.png" />
 <img src="./frontend/public/signup-m.png" />
