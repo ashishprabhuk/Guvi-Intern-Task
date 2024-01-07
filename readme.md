@@ -5,7 +5,7 @@
 <img src="./frontend/public/home-l.png" />
 <img src="./frontend/public/signup-m.png" />
 <img src="./frontend/public/signup-l.png" />
-<img src="./frontend/public/login-m.png" />
+<img src="./frontend/public/Login-m.png" />
 <img src="./frontend/public/login-l.png" />
 <img src="./frontend/public/profile-m.png" />
 <img src="./frontend/public/profile-l.png" />
