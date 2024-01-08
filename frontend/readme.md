@@ -12,17 +12,17 @@
 
 
 ## Responsive Designs:
-<img src="./frontend/public/home-m.png" />
-<img src="./frontend/public/home-l.png" />
-<img src="./frontend/public/signup-m.png" />
-<img src="./frontend/public/signup-l.png" />
-<img src="./frontend/public/Login-m.png" />
-<img src="./frontend/public/login-l.png" />
-<img src="./frontend/public/profile-m.png" />
-<img src="./frontend/public/profile-l.png" />
+<img src="./public/home-m.png" />
+<img src="./public/home-l.png" />
+<img src="./public/signup-m.png" />
+<img src="./public/signup-l.png" />
+<img src="./public/Login-m.png" />
+<img src="./public/login-l.png" />
+<img src="./public/profile-m.png" />
+<img src="./public/profile-l.png" />
 
 ### Example of User Data in MongoDB:
-<img src="./frontend/public/MongoDB.png" />
+<img src="./public/MongoDB.png" />
 
 ## Problem Statement:
 
